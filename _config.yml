@@ -29,7 +29,7 @@ image_dir: assets/images
 #         menu:                 # Name of your groups of links (changeable)
 #             home:             # Name of your link (changeable)
 #                title: Home    # Title of your link displayed
-#                url: https://minhnhatkent.github.io/graphicmarketsite/         # URL of the link. If the URL is internal, domain name is not necessary
+#                url: https://minhnhatkent.github.io/graphicmarketsite         # URL of the link. If the URL is internal, domain name is not necessary
 #                icon: home     # Name of the font awesome icon class without the `fa-`
 #                               # Go to http://fontawesome.io/icons/ to find class name of icon
 sidebar:
